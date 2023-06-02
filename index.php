@@ -309,18 +309,16 @@ To provide the highest level of service in the construction industry while offer
                     <div class="row buyer_seller_bottom_inner_section">
                         <div class="col-md-6 col-12 left_column">
                             <div class="buyer_seller_title">
-                                <h5>for sellers</h5>
+                                <h5>Company Target</h5>
                             </div>
                             <div class="buyer_seller_heading">
-                                <h2>value your home</h2>
+                                <h2>Our Target</h2>
                             </div>
                             <div class="buyer_seller_para">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua.</p>
+                                <p>To grow our reach in Pune by opening new locations in specific neighborhoods with a high demand for our services. This will allow us to better serve our customers and grow our business.
+</p>
                             </div>
-                            <div class="buyer_seller_button">
-                                <a class="btn" href="javascript:void(0);">home valuation</a>
-                            </div>
+                          
                         </div>
                         <div class="col-md-6 col-12 right_column">
                             <img class="img_shadow" src="assets/images/house-images/house-2.png" alt="house-image">
@@ -339,15 +337,13 @@ To provide the highest level of service in the construction industry while offer
                 <div class="row">
                     <div class="col-lg-9 col-md-8 col-12">
                         <div class="theme_heading">
-                            <h2>Find the category for you</h2>
+                            <h2>Best Project</h2>
                         </div>
                         <div class="theme_description">
-                            <p class="mt-15">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                            <p class="mt-15">Projects all over Pune and Maharashtra.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4 col-12 theme_button">
-                        <a href="javascript:void(0);" class="btn">explore properties<i class="icon fa-solid fa-arrow-right"></i></a>
-                    </div>
+                   
                 </div>
 
                 <div class="row category_inner_section">
@@ -359,7 +355,7 @@ To provide the highest level of service in the construction industry while offer
                                     <div class="p_category_image"
                                         style="background-image: url('assets/images/categories/category-1.png');">
                                     </div>
-                                    <h4 class="category_title">agriculture</h4>
+                                    <h4 class="category_title">KESHAV NAGAR  </h4>
                                 </a>
                             </div>
                         </div>
@@ -372,7 +368,7 @@ To provide the highest level of service in the construction industry while offer
                                     <div class="p_category_image"
                                         style="background-image: url('assets/images/categories/category-2.png');">
                                     </div>
-                                    <h4 class="category_title">industrial</h4>
+                                    <h4 class="category_title"> HANDEWADI</h4>
                                 </a>
                             </div>
                         </div>
@@ -385,7 +381,7 @@ To provide the highest level of service in the construction industry while offer
                                     <div class="p_category_image"
                                         style="background-image: url('assets/images/categories/category-3.png');">
                                     </div>
-                                    <h4 class="category_title">office space</h4>
+                                    <h4 class="category_title">MAHABALESHWAR</h4>
                                 </a>
                             </div>
                         </div>
@@ -398,37 +394,14 @@ To provide the highest level of service in the construction industry while offer
                                     <div class="p_category_image"
                                         style="background-image: url('assets/images/categories/category-4.png');">
                                     </div>
-                                    <h4 class="category_title">appartments</h4>
+                                    <h4 class="category_title">KUNJIRWADI</h4>
                                 </a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-4 col-6 category_column">
-                        <div class="real_estate_categories">
-                            <div class="category_items">
-                                <a class="category_items_link" href="javascript:void(0);">
-                                    <div class="p_category_image"
-                                        style="background-image: url('assets/images/categories/category-5.png');">
-                                    </div>
-                                    <h4 class="category_title">commercial</h4>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-6 category_column">
-                        <div class="real_estate_categories">
-                            <div class="category_items">
-                                <a class="category_items_link" href="javascript:void(0);">
-                                    <div class="p_category_image"
-                                        style="background-image: url('assets/images/categories/category-6.png');">
-                                    </div>
-                                    <h4 class="category_title">residential</h4>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
+               
+                  
                 </div>
             </div>
         </section>
