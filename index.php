@@ -74,7 +74,7 @@
                                 <a class="nav-link" href="#buyer_seller_section">about</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#property_listing_section">listings</a>
+                                <a class="nav-link" href="#property_listing_section">Projects</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#category_section">category</a>
@@ -108,7 +108,7 @@
                                         <a class="nav-link" href="#buyer_seller_section">about</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#property_listing_section">listings</a>
+                                        <a class="nav-link" href="#property_listing_section">Projects</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#category_section">categories</a>
@@ -733,7 +733,7 @@ To provide the highest level of service in the construction industry while offer
                                </li>
                             </ul>
                         </div>
-                        
+
                     </div>
                 </div>
 
