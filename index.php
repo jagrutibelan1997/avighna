@@ -414,10 +414,10 @@ To provide the highest level of service in the construction industry while offer
             <div class="bg_img_testimonial">
                 <div class="container">
                     <div class="theme_heading">
-                        <h2>Testimonials from clients</h2>
+                        <h2>Testimonials</h2>
                     </div>
                     <div class="theme_description">
-                        <p class="mt-15">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                        <p class="mt-15">Testimonials from clients.</p>
                     </div>
                     <div class="testimonial_inner_section">
 
@@ -434,45 +434,7 @@ To provide the highest level of service in the construction industry while offer
                                 <div class="client_name">
                                     <h4>eleanor pena</h4>
                                 </div>
-                                <div class="client_destination">
-                                    <h5>Home Seller, USA</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="client_testimonials">
-                            <div class="testimonial">
-                                <div class="testimonial_icon">
-                                    <i class="fa-solid fa-quote-left"></i>
-                                </div>
-                                <div class="client_review">
-                                    <p>“Lorem ipsum may be used as a placeholder before final copy is available.”</p>
-                                </div>
-                                <div class="client_name">
-                                    <h4>jessica molino</h4>
-                                </div>
-                                <div class="client_destination">
-                                    <h5>Home Seller, USA</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="client_testimonials">
-                            <div class="testimonial">
-                                <div class="testimonial_icon">
-                                    <i class="fa-solid fa-quote-left"></i>
-                                </div>
-                                <div class="client_review">
-                                    <p>“In publishing and graphic design, Lorem ipsum is a placeholder text commonly
-                                        used to
-                                        demonstrate the visual form of a document.”</p>
-                                </div>
-                                <div class="client_name">
-                                    <h4>rachel keiser</h4>
-                                </div>
-                                <div class="client_destination">
-                                    <h5>Home Seller, USA</h5>
-                                </div>
+                                
                             </div>
                         </div>
 
@@ -489,9 +451,7 @@ To provide the highest level of service in the construction industry while offer
                                 <div class="client_name">
                                     <h4>eleanor pena</h4>
                                 </div>
-                                <div class="client_destination">
-                                    <h5>Home Seller, USA</h5>
-                                </div>
+                                
                             </div>
                         </div>
 
@@ -501,14 +461,14 @@ To provide the highest level of service in the construction industry while offer
                                     <i class="fa-solid fa-quote-left"></i>
                                 </div>
                                 <div class="client_review">
-                                    <p>“Lorem ipsum may be used as a placeholder before final copy is available.”</p>
+                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
+                                        of a
+                                        document or a typeface without relying on meaningful content.”</p>
                                 </div>
                                 <div class="client_name">
-                                    <h4>jessica molino</h4>
+                                    <h4>eleanor pena</h4>
                                 </div>
-                                <div class="client_destination">
-                                    <h5>Home Seller, USA</h5>
-                                </div>
+                                
                             </div>
                         </div>
 
@@ -518,18 +478,39 @@ To provide the highest level of service in the construction industry while offer
                                     <i class="fa-solid fa-quote-left"></i>
                                 </div>
                                 <div class="client_review">
-                                    <p>“In publishing and graphic design, Lorem ipsum is a placeholder text commonly
-                                        used to
-                                        demonstrate the visual form of a document.”</p>
+                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
+                                        of a
+                                        document or a typeface without relying on meaningful content.”</p>
                                 </div>
                                 <div class="client_name">
-                                    <h4>rachel keiser</h4>
+                                    <h4>eleanor pena</h4>
                                 </div>
-                                <div class="client_destination">
-                                    <h5>Home Seller, USA</h5>
-                                </div>
+                                
                             </div>
                         </div>
+
+                        <div class="client_testimonials">
+                            <div class="testimonial">
+                                <div class="testimonial_icon">
+                                    <i class="fa-solid fa-quote-left"></i>
+                                </div>
+                                <div class="client_review">
+                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
+                                        of a
+                                        document or a typeface without relying on meaningful content.”</p>
+                                </div>
+                                <div class="client_name">
+                                    <h4>eleanor pena</h4>
+                                </div>
+                                
+                            </div>
+                        </div>
+
+
+                        
+
+
+                       
                     </div>
                 </div>
             </div>
@@ -544,15 +525,13 @@ To provide the highest level of service in the construction industry while offer
                 <div class="row">
                     <div class="col-lg-9 col-md-8 col-12">
                         <div class="theme_heading">
-                            <h2>Meet our agents</h2>
+                            <h2>Meet our Team</h2>
                         </div>
                         <div class="theme_description">
-                            <p class="mt-15">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                            <p class="mt-15">Best Team Of Avighna  Developers</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4 col-12 theme_button">
-                        <a href="javascript:void(0);" class="btn">meet our team<i class="icon fa-solid fa-arrow-right"></i></a>
-                    </div>
+                   
                 </div>
 
                 <div id="agent-listings" class="pt-80">
