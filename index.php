@@ -297,9 +297,9 @@
                             </div>
                             <div class="buyer_seller_para">
                                 <p>To become the most preferred choice for customers by attaining excellence in quality and timely completed value-added projects.
-To provide the highest level of service in the construction industry while offering superior craftsmanship to every project, we handle.
+                                    To provide the highest level of service in the construction industry while offering superior craftsmanship to every project, we handle.
 
-</p>
+                                    </p>
                             </div>
                             
                         </div>
@@ -315,7 +315,7 @@ To provide the highest level of service in the construction industry while offer
                             </div>
                             <div class="buyer_seller_para">
                                 <p>To grow our reach in Pune by opening new locations in specific neighborhoods with a high demand for our services. This will allow us to better serve our customers and grow our business.
-</p>
+                            </p>
                             </div>
                           
                         </div>
@@ -527,13 +527,7 @@ To provide the highest level of service in the construction industry while offer
                                 <a href="javascript:void(0);" class="agent-image">
                                     <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
-                                <div class="agent_social">
-                                    <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a class="social_icons twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                                    <a class="social_icons linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a class="social_icons instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="social_icons whatsapp" href="https://www.whatsapp.com/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-                                </div>
+                              
                             </div>
                             <div class="background">
                                 <div class="agent_description">
@@ -550,13 +544,7 @@ To provide the highest level of service in the construction industry while offer
                                 <a href="javascript:void(0);" class="agent-image">
                                     <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
-                                <div class="agent_social">
-                                    <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a class="social_icons twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                                    <a class="social_icons linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a class="social_icons instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="social_icons whatsapp" href="https://www.whatsapp.com/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-                                </div>
+                             
                             </div>
                             <div class="background">
                                 <div class="agent_description">
@@ -573,13 +561,7 @@ To provide the highest level of service in the construction industry while offer
                                 <a href="javascript:void(0);" class="agent-image">
                                     <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
-                                <div class="agent_social">
-                                    <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a class="social_icons twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                                    <a class="social_icons linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a class="social_icons instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="social_icons whatsapp" href="https://www.whatsapp.com/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-                                </div>
+                             
                             </div>
                             <div class="background">
                                 <div class="agent_description">
@@ -596,13 +578,7 @@ To provide the highest level of service in the construction industry while offer
                                 <a href="javascript:void(0);" class="agent-image">
                                     <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
-                                <div class="agent_social">
-                                    <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a class="social_icons twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                                    <a class="social_icons linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a class="social_icons instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="social_icons whatsapp" href="https://www.whatsapp.com/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-                                </div>
+                                
                             </div>
                             <div class="background">
                                 <div class="agent_description">
@@ -620,13 +596,7 @@ To provide the highest level of service in the construction industry while offer
                                 <a href="javascript:void(0);" class="agent-image">
                                     <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
-                                <div class="agent_social">
-                                    <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a class="social_icons twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                                    <a class="social_icons linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a class="social_icons instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="social_icons whatsapp" href="https://www.whatsapp.com/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-                                </div>
+                              
                             </div>
                             <div class="background">
                                 <div class="agent_description">
