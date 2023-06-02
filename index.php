@@ -82,9 +82,8 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#testimonial_section">testimonial</a>
                             </li>
-                           
                             <li class="nav-item">
-                                <a class="nav-link" href="#estimate_section">estimate</a>
+                                <a class="nav-link" href="#estimate_section">Contact</a>
                             </li>
                            
                         </ul>
@@ -117,9 +116,9 @@
                                     <li class="nav-item">
                                         <a class="nav-link" href="#testimonial_section">testimonials</a>
                                     </li>
-                                 
+                             
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#estimate_section">estimate</a>
+                                        <a class="nav-link" href="#estimate_section">Contact</a>
                                     </li>
                                    
                                 </ul>
@@ -421,18 +420,17 @@ To provide the highest level of service in the construction industry while offer
                     </div>
                     <div class="testimonial_inner_section">
 
+                  
                         <div class="client_testimonials">
                             <div class="testimonial">
                                 <div class="testimonial_icon">
                                     <i class="fa-solid fa-quote-left"></i>
                                 </div>
                                 <div class="client_review">
-                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
-                                        of a
-                                        document or a typeface without relying on meaningful content.”</p>
+                                    <p>“I am delighted to write this testimonial for Avighna Developers, who have been instrumental in making my dream home a reality. ”</p>
                                 </div>
                                 <div class="client_name">
-                                    <h4>eleanor pena</h4>
+                                    <h4>Mr. Satish</h4>
                                 </div>
                                 
                             </div>
@@ -444,12 +442,10 @@ To provide the highest level of service in the construction industry while offer
                                     <i class="fa-solid fa-quote-left"></i>
                                 </div>
                                 <div class="client_review">
-                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
-                                        of a
-                                        document or a typeface without relying on meaningful content.”</p>
+                                    <p>“Their expertise and knowledge in the real estate industry were evident throughout the entire process. ”</p>
                                 </div>
                                 <div class="client_name">
-                                    <h4>eleanor pena</h4>
+                                    <h4>Mrs. Sakshi</h4>
                                 </div>
                                 
                             </div>
@@ -461,12 +457,10 @@ To provide the highest level of service in the construction industry while offer
                                     <i class="fa-solid fa-quote-left"></i>
                                 </div>
                                 <div class="client_review">
-                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
-                                        of a
-                                        document or a typeface without relying on meaningful content.”</p>
+                                    <p>“The quality of construction and the craftsmanship exhibited by Avighna Developers is truly commendable. ”</p>
                                 </div>
                                 <div class="client_name">
-                                    <h4>eleanor pena</h4>
+                                    <h4>Mr. Rohit</h4>
                                 </div>
                                 
                             </div>
@@ -478,12 +472,10 @@ To provide the highest level of service in the construction industry while offer
                                     <i class="fa-solid fa-quote-left"></i>
                                 </div>
                                 <div class="client_review">
-                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
-                                        of a
-                                        document or a typeface without relying on meaningful content.”</p>
+                                    <p>“ They used the finest materials, incorporated modern designs, and ensured that the functionality of the space met all my requirements.”</p>
                                 </div>
                                 <div class="client_name">
-                                    <h4>eleanor pena</h4>
+                                    <h4>Mr. Sandeep</h4>
                                 </div>
                                 
                             </div>
@@ -495,23 +487,16 @@ To provide the highest level of service in the construction industry while offer
                                     <i class="fa-solid fa-quote-left"></i>
                                 </div>
                                 <div class="client_review">
-                                    <p>“Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
-                                        of a
-                                        document or a typeface without relying on meaningful content.”</p>
+                                    <p>“I would highly recommend Avighna Developers to anyone looking for a reliable and trustworthy real estate developer.”</p>
                                 </div>
                                 <div class="client_name">
-                                    <h4>eleanor pena</h4>
+                                    <h4>Mr. Ashutosh</h4>
                                 </div>
                                 
                             </div>
                         </div>
 
-
-                        
-
-
-                       
-                    </div>
+                   </div>
                 </div>
             </div>
         </section>
@@ -528,7 +513,7 @@ To provide the highest level of service in the construction industry while offer
                             <h2>Meet our Team</h2>
                         </div>
                         <div class="theme_description">
-                            <p class="mt-15">Best Team Of Avighna  Developers</p>
+                            <p class="mt-15">Management Team</p>
                         </div>
                     </div>
                    
@@ -540,7 +525,7 @@ To provide the highest level of service in the construction industry while offer
                         <div class="agent_detail">
                             <div class="foreground">
                                 <a href="javascript:void(0);" class="agent-image">
-                                    <img src="assets/images/agents/agent-1.png" alt="agent-image">
+                                    <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
                                 <div class="agent_social">
                                     <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
@@ -552,8 +537,8 @@ To provide the highest level of service in the construction industry while offer
                             </div>
                             <div class="background">
                                 <div class="agent_description">
-                                    <h4 class="agent-title">jorder smith</h4>
-                                    <h6 class="agent-type">real estate agents</h6>
+                                    <h4 class="agent-title">Chairman</h4>
+                                    <h6 class="agent-type">Rahul Gaikwad</h6>
                                 </div>
                             </div>
                         </div>
@@ -563,7 +548,7 @@ To provide the highest level of service in the construction industry while offer
                         <div class="agent_detail">
                             <div class="foreground">
                                 <a href="javascript:void(0);" class="agent-image">
-                                    <img src="assets/images/agents/agent-2.png" alt="agent-image">
+                                    <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
                                 <div class="agent_social">
                                     <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
@@ -575,8 +560,8 @@ To provide the highest level of service in the construction industry while offer
                             </div>
                             <div class="background">
                                 <div class="agent_description">
-                                    <h4 class="agent-title">maria anderson</h4>
-                                    <h6 class="agent-type">real estate agents</h6>
+                                    <h4 class="agent-title"> Director</h4>
+                                    <h6 class="agent-type">Amit Kumar Ojha</h6>
                                 </div>
                             </div>
                         </div>
@@ -586,7 +571,7 @@ To provide the highest level of service in the construction industry while offer
                         <div class="agent_detail">
                             <div class="foreground">
                                 <a href="javascript:void(0);" class="agent-image">
-                                    <img src="assets/images/agents/agent-3.png" alt="agent-image">
+                                    <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
                                 <div class="agent_social">
                                     <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
@@ -598,8 +583,8 @@ To provide the highest level of service in the construction industry while offer
                             </div>
                             <div class="background">
                                 <div class="agent_description">
-                                    <h4 class="agent-title">lumi jackson</h4>
-                                    <h6 class="agent-type">real estate agents</h6>
+                                    <h4 class="agent-title">Project Manager </h4>
+                                    <h6 class="agent-type">Devanand Bansode</h6>
                                 </div>
                             </div>
                         </div>
@@ -609,7 +594,7 @@ To provide the highest level of service in the construction industry while offer
                         <div class="agent_detail">
                             <div class="foreground">
                                 <a href="javascript:void(0);" class="agent-image">
-                                    <img src="assets/images/agents/agent-1.png" alt="agent-image">
+                                    <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
                                 <div class="agent_social">
                                     <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
@@ -621,18 +606,19 @@ To provide the highest level of service in the construction industry while offer
                             </div>
                             <div class="background">
                                 <div class="agent_description">
-                                    <h4 class="agent-title">jorder smith</h4>
-                                    <h6 class="agent-type">real estate agents</h6>
+                                    <h4 class="agent-title">Sales Head</h4>
+                                    <h6 class="agent-type">Nilesh Choudhary</h6>
                                 </div>
                             </div>
                         </div>
                     </div>
 
+                    
                     <div class="agent">
                         <div class="agent_detail">
                             <div class="foreground">
                                 <a href="javascript:void(0);" class="agent-image">
-                                    <img src="assets/images/agents/agent-2.png" alt="agent-image">
+                                    <!-- <img src="assets/images/agents/agent-1.png" alt="agent-image"> -->
                                 </a>
                                 <div class="agent_social">
                                     <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
@@ -644,62 +630,40 @@ To provide the highest level of service in the construction industry while offer
                             </div>
                             <div class="background">
                                 <div class="agent_description">
-                                    <h4 class="agent-title">maria anderson</h4>
-                                    <h6 class="agent-type">real estate agents</h6>
+                                    <h4 class="agent-title">Procurement</h4>
+                                    <h6 class="agent-type">Vishal Jadhav</h6>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="agent">
-                        <div class="agent_detail">
-                            <div class="foreground">
-                                <a href="javascript:void(0);" class="agent-image">
-                                    <img src="assets/images/agents/agent-3.png" alt="agent-image">
-                                </a>
-                                <div class="agent_social">
-                                    <a class="social_icons facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a class="social_icons twitter" href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                                    <a class="social_icons linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a class="social_icons instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a class="social_icons whatsapp" href="https://www.whatsapp.com/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-                                </div>
-                            </div>
-                            <div class="background">
-                                <div class="agent_description">
-                                    <h4 class="agent-title">lumi jackson</h4>
-                                    <h6 class="agent-type">real estate agents</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </section>
 
         <!-- Agent section ends-->
 
-        <!-- Estimate section starts-->
+      <!-- Estimate section starts-->
 
-        <section id="estimate_section" class="mt-100">
+      <section id="estimate_section" class="mt-100">
             <div class="container">
                 <div class="estimate_inner_section">
                     <div class="row estimate_inner_row">
                         <div class="col-lg-7 col-12 column_1">
                             <div class="estimate_heading">
-                                <h2>Get a free estimate</h2>
+                                <h2>Contact Us Now</h2>
                             </div>
                             <div class="estimate_para">
-                                <p class="mt-15">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                    tempor incididunt ut
-                                    labore et dolore magna aliqua.</p>
+                                <p class="mt-15">Address - office no. 404, Gandharva Capital, Bhosale Nagar, Hadapsar Pune - 411028
+</p>
                             </div>
                         </div>
-                        <div class="col-lg-5 col-12 column_2">
+                        <!-- <div class="col-lg-5 col-12 column_2">
                             <a href="javascript:void(0);" class="estimate_property_button btn">see properties</a>
                             <br>
                             <a href="javascript:void(0);" class="estimate_learn_button btn">learn more</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -715,11 +679,11 @@ To provide the highest level of service in the construction industry while offer
                 <div class="footer_top">
                     <div class="row site_name">
                         <div class="col-md-6 col-12 column_1">
-                            <a class="site_logo" href="#realock_info"><span>r</span>ealock</a>
+                            <a class="site_logo" href="#realock_info"><span> AVIGHNA </span> DEVELOPERS</a>
                         </div>
                         <div class="col-md-6 col-12 column_2">
-                            <h5 class="site_contact_us">Contact Us: <a href="mailto:contact@realock.com"
-                                    target="_blank">contact@realock.com</a>
+                            <h5 class="site_contact_us">Contact Us:   <a href="mailto:avighna.developers01@gmail.com"
+                                class="header_top_text contact_mail">avighna.developers01@gmail.com</a>
                             </h5>
                         </div>
                     </div>
@@ -727,68 +691,61 @@ To provide the highest level of service in the construction industry while offer
 
                 <div class="footer_middle">
                     <div class="row site_about">
-                        <div class="col-md-4 col-12 column_1">
-                            <h4 class="site_about_heading">about</h4>
-                            <p class="site_about_para">Building mr concers servants in he outlived am breeding. He so
-                                lain
-                                good miss when sell some at if. Told hand so an rich gave next. How doubt yet again see
-                                son
-                                smart.</p>
-                            <ul class="site_social_media">
-                                <li class="social_media_icons">
-                                    <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                                    <a href="https://in.pinterest.com/" target="_blank"><i class="fa-brands fa-pinterest-p"></i></a>
-                                    <a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://www.youtube.com/" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                </li>
-                            </ul>
-                        </div>
+                    
                         <div class="col-md-4 col-12 column_2">
                             <div class="row">
-                                <div class="col-6 left_container">
-                                    <h4 class="offer_menu_heading">offers</h4>
-                                    <ul class="offer_menu">
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">payments</a></li>
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">pricing</a></li>
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">subscriptions</a></li>
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">customers</a></li>
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">privacy site</a></li>
-                                    </ul>
-                                </div>
+                            
                                 <div class="col-6 right_container">
                                     <h4 class="company_menu_heading">company</h4>
                                     <ul class="company_menu">
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">about us</a></li>
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">recent blog</a></li>
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">contact us</a></li>
-                                        <li class="menu_item"><a href="javascript:void(0);" class="menu_link">conditions</a></li>
+                                       <li class="menu_item">  <a class="nav-link" href="#buyer_seller_section">about</a></li>
+                                        <li class="menu_item"><a class="nav-link" href="#category_section">categories</a></li>
+                                        <li class="menu_item"><a class="nav-link" href="#testimonial_section">testimonials</a></li>
+                                        <li class="menu_item"><a class="nav-link" href="#estimate_section">Contact</a></li>
+                                                                                                 
                                     </ul>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-4 col-12 column_3">
                             <form action="#" class="newsletter_form">
-                                <h4 class="form_heading">newsletter</h4>
+                                <h4 class="form_heading">Contact Us</h4>
                                 <div class="form_container">
-                                    <input type="email" placeholder="Write Your Email" name="mail" required><button
-                                        class="form_submit_button" type="submit"><i class="fa-solid fa-paper-plane"></i></button>
+                                <li class="menu_item">   <a href="tel:+917499400853" class="header_top_text contact_number">+917499400853</a></li>
+                                <li class="menu_item">   <a href="mailto:avighna.developers01@gmail.com"
+                                class="header_top_text contact_mail">avighna.developers01@gmail.com</a></li>
+                                   
+                             
+
+                                
                                 </div>
                             </form>
                         </div>
+
+                        <div class="col-md-4 col-12 column_1">
+                            <h4 class="site_about_heading">about</h4>
+                            <p class="site_about_para">  AVIGHNA DEVELOPER’S, A FASTEST GROWING REAL ESTATE COMPANY IN PUNE, HAVING DEVELOPMENT PROJECTS IN HADAPSAR, PUNE AND MAHABALESHWAR, MAHARASHTRA.</p>
+                            <ul class="site_social_media">
+                                <li class="social_media_icons">
+                                    <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                                    <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                               </li>
+                            </ul>
+                        </div>
+                        
                     </div>
                 </div>
 
                 <div class="footer_bottom">
                     <div class="row site_info">
                         <div class="col-xl-8 col-lg-7 col-md-6 col-12 column_1">
-                            <p class="site_copyright">copyright&copy;<span>realock</span> 2022. <br> all rights
-                                reserved.</p>
+                        <p>All Rights Reserved @  AVIGHNA DEVELOPERS <?php echo date("Y"); ?> <span class="current-year"></span> Developed By <a href="https://dexterintelligence.com/" target="_blank">Dexter Intelligence</a> | Hosted By <a href="http://urvahosting.com/" target="_blank">Urva Hosting</a></p>
                         </div>
-                        <div class="col-xl-4 col-lg-5 col-md-6 col-12 column_2">
+                        <!-- <div class="col-xl-4 col-lg-5 col-md-6 col-12 column_2">
                             <a href="javascript:void(0);" class="site_policy">privacy policy</a>
                             <a href="javascript:void(0);" class="site_conditions">terms & conditions</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
